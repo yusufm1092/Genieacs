@@ -6,7 +6,7 @@ This is autoinstall GenieACS
 apt install git curl -y
 ```
 ```
-git clone https://github.com/yusufm1092/Genieacs
+git clone https://github.com/yusufm1092/genieacs
 ```
 ```
 cd genieacs
